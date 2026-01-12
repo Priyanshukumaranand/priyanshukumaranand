@@ -1,40 +1,73 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Priyanshu</h1>
 
-<!-- Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=Priyanshu%20Kumar%20Anand&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-
-<!-- Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Apps+%E2%9C%A8" />
-</a>
-
-<!-- Links -->
-<p>
-<a href="https://priyanshukumaranand.tech"><img src="https://img.shields.io/badge/Portfolio-667eea?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/priyanshu-kumar-anand"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:priyanshukumaranandofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<p align="center">
+<a href="https://priyanshukumaranand.tech"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://linkedin.com/in/priyanshu-kumar-anand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:priyanshukumaranandofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### ⚡ Tech Stack
+### 🧑‍💻 About Me
 
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,fastapi,mongodb,postgres,docker,gcp&perline=8"/>
+I'm a **Full Stack Developer** who loves integrating **AI/ML into web applications**. Currently pursuing B.Tech at IIIT Bhubaneswar.
 
-<sub>**AI:** LangChain · LangGraph · Gemini · RAG · ChromaDB · HuggingFace</sub>
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshukumaranand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumaranand&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+- 🔭 Building intelligent apps with **RAG**, **LangGraph** & **Gemini**
+- 🌱 Exploring **Agentic AI** & **System Design**
+- 💬 Ask me about **React, FastAPI, LangChain**
+- ⚡ Fun fact: I turn emails into structured data using AI pipelines
 
 ---
 
-<sub>🚀 Open to AI-powered project collaborations</sub>
+### 🛠️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=80&section=footer"/>
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-</div>
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+**AI/ML:**  
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat)
+![Gemini](https://img.shields.io/badge/✨_Gemini-4285F4?style=flat)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat)
+
+**Cloud & DevOps:**  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔍 **Resume Discovery API** | RAG-powered semantic search with Q&A | FastAPI, ChromaDB, Gemini |
+| 📊 **Placement Tracker** | AI extracts placement info from emails | LangGraph, Gmail API, PostgreSQL |
+| 🌐 **IIIT Network** | College platform with real-time chat | React, Express, Socket.io, Redis |
+
+---
+
+### � GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshukumaranand&show_icons=true&theme=gotham" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumaranand&layout=compact&theme=gotham" alt="langs" height="165"/>
+</p>
+
+---
+
+<p align="center">
+<i>Open to collaborating on AI-powered web projects!</i>
+</p>

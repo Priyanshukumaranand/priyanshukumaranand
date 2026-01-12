@@ -1,188 +1,95 @@
 <div align="center">
-  
-# 👋 Hey, I'm Priyanshu Kumar Anand
 
-### 🚀 Full Stack Developer | AI Enthusiast | Competitive Programmer
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=120&section=header&text=Priyanshu%20Kumar%20Anand&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-priyanshukumaranand.tech-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyanshukumaranand.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-kumar-anand)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshukumaranandofficial@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1893-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/priyanshukumaranandofficial)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1528-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/priyanshukumaranand)
-
-<img src="https://komarev.com/ghpvc/?username=priyanshukumaranand&label=Profile%20Views&color=6366F1&style=flat-square" alt="profile views" />
-
-</div>
-
----
-
-## 🎓 Education
-
-**International Institute of Information Technology, Bhubaneswar** 🇮🇳  
-📚 B.Tech in Computer Engineering | **CGPA: 8.24** | 2022 – 2026
-
----
-
-## 🏆 Achievements & Highlights
-
-| 🥇 Achievement | 📊 Details |
-|---------------|-----------|
-| **Meta Hacker Cup 2025** | 🌍 Global Rank **186** (Semifinalist) |
-| **TCS CodeVita** | 🏅 Rank **121** |
-| **CodeOlympics** | 🥇 **1st Place** at IIIT Bhubaneswar |
-| **D3 Fest Coding Contest** | 🥉 **3rd Place** at IIIT Bhubaneswar |
-| **DSA Problems Solved** | ✅ **1600+** across platforms |
-| **LeetCode** | ⚔️ **Knight** (Rating: 1893) |
-| **Codeforces** | 💎 **Specialist** (Rating: 1528) |
-| **Google Cloud** | 💠 **Diamond Tier** - Cloud Computing Foundations |
-
-### 🎯 Hackathon Qualifications
-- 🏁 **Smart India Hackathon** - Semifinals (2023, 2024)
-- 🛒 **Flipkart Grid 6.0** - Quarterfinals
-- 💼 **EY Techathon 5.0** - Advanced Rounds
-- 🌿 **L'Oréal Sustainability Challenge 2024** - Advanced Rounds
-
----
-
-## � Experience
-
-### 🤖 AI Intern @ Edunet Foundation
-**Oct 2024 – Dec 2024** | Remote
-
-- 🔐 Built a **privacy-first Resume Discovery API** with PDF ingestion, candidate search & evidence-grounded Q&A
-- 🧠 Developed **semantic retrieval layer** using ChromaDB + all-MiniLM-L6-v2 embeddings for top-k resume section matching
-- ⚡ Implemented **RAG pipeline** with Gemini 2.5 Flash for context-grounded answers with confidence-based fallback
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 IIIT Bbsr Network
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Priyanshukumaranand)
-
-**Tech:** Express.js, React.js, MongoDB, Redis, Socket.io, GCP
-
-- 👥 **130+ active users** on college networking platform
-- 🔐 Google OAuth 2.0 + request batching & caching
-- 💬 Real-time chat via WebSockets + Redis
-- 🚀 CI/CD pipeline with GitHub Actions → Azure
-
-</td>
-<td width="50%">
-
-### 📊 IIIT Placement Tracking System
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Priyanshukumaranand)
-
-**Tech:** FastAPI, LangGraph, Pub/Sub, PostgreSQL, Gemini
-
-- 📧 Real-time pipeline: Gmail Watch → Pub/Sub → FastAPI
-- 🔄 Incremental sync via Gmail History API
-- 🤖 LangGraph + Gemini extraction workflow
-- 📈 Student-facing placement dashboard
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### AI/ML & Tools
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Core Concepts
-`DSA` `OOP` `DBMS` `Operating Systems` `Machine Learning` `NLP` `RAG`
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<a href="https://github.com/priyanshukumaranand">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshukumaranand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumaranand&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;1600%2B+DSA+Problems+Solved+%E2%9C%85" alt="Typing SVG" />
 </a>
 
-<br/>
+<!-- Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://priyanshukumaranand.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-kumar-anand)
+[![LeetCode](https://img.shields.io/badge/Knight_1893-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/priyanshukumaranandofficial)
+[![Codeforces](https://img.shields.io/badge/Specialist_1528-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukumaranand&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=priyanshukumaranand&color=6366F1&style=flat-square" alt="views"/>
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+### 🏆 Achievements
+
+| Competition | Rank |
+|------------|------|
+| 🌍 **Meta Hacker Cup 2025** | Global Rank **186** |
+| 💻 **TCS CodeVita** | Rank **121** |
+| 🥇 **CodeOlympics** | **1st Place** |
+| 🥉 **D3 Fest Coding** | **3rd Place** |
+| 💎 **Google Cloud** | Diamond Tier |
+
+**Hackathons:** SIH Semifinals • Flipkart Grid 6.0 • EY Techathon 5.0 • L'Oréal Challenge
+
+---
+
+### 💼 Experience
+
+**🤖 AI Intern @ Edunet Foundation** *(Oct - Dec 2024)*  
+Built Resume Discovery API with RAG pipeline using ChromaDB + Gemini 2.5 Flash
+
+---
+
+### 🚀 Projects
+
+| Project | Tech | Highlights |
+|---------|------|------------|
+| **🌐 IIIT Bbsr Network** | React, Express, MongoDB, Redis | 130+ users, Real-time chat, OAuth 2.0 |
+| **📊 Placement Tracker** | FastAPI, LangGraph, PostgreSQL | Gmail → Pub/Sub → AI extraction pipeline |
+
+---
+
+### 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshukumaranand&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshukumaranand&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumaranand&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<!-- Fixed Streak Stats URL -->
+<img src="https://streak-stats.demolab.com?user=priyanshukumaranand&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshukumaranand&theme=tokyo-night&hide_border=true&area=true&height=250" alt="Activity Graph"/>
+
 </div>
 
 ---
 
-## � Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshukumaranand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
 <div align="center">
 
-### � About Me
+**Currently exploring:** `Agentic AI` `RAG` `System Design` `LLM Applications`
 
-*I'm a B.Tech student passionate about building scalable web applications integrated with AI.*  
-*I focus on solving real-life problems through end-to-end deployment of intelligent systems.*  
-*Active in competitive programming and love collaborating in hackathons with diverse teams.*
+[![Email](https://img.shields.io/badge/📧_priyanshukumaranandofficial@gmail.com-EA4335?style=flat-square)](mailto:priyanshukumaranandofficial@gmail.com)
 
-**Currently exploring:** `Agentic AI` `RAG Systems` `LLM Applications` `System Design`
-
----
-
-### 🤝 Let's Connect!
-
-*Open to collaborations, internship opportunities, and interesting projects!*
-
-[![LinkedIn](https://img.shields.io/badge/-Priyanshu_Kumar_Anand-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-kumar-anand)
-[![GitHub](https://img.shields.io/badge/-@Priyanshukumaranand-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshukumaranand)
-[![Portfolio](https://img.shields.io/badge/-priyanshukumaranand.tech-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://priyanshukumaranand.tech)
-[![Email](https://img.shields.io/badge/-priyanshukumaranandofficial@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshukumaranandofficial@gmail.com)
-
----
-
-⭐ *If you find my work interesting, consider giving a star to my repositories!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=80&section=footer"/>
 
 </div>
